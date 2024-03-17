@@ -12,11 +12,11 @@
 
 <p>My experience is primarily focused on:</p>
 
-- Data dashboard development
-- Web application development
-- Automation
-- Web scraping
-- ETL development.
+- 📊 Data dashboard development
+- 💻 Web application development
+- ⚙️ Automation
+- 🔍 Web scraping
+- 🤖 ETL development.
 
 However, I enjoy developing solutions for all kinds of problems, which is why I have also been working on some projects related to mobile applications (React Native), desktop applications (Tauri), and issues related to computer vision (OpenCV).
 
