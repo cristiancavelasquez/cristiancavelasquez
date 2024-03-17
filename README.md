@@ -7,6 +7,7 @@
 - ⌨️ TypeScript and Python developer.
 - 📊 Power Bi Expert
 - 📚 Learning Go (Golang).
+- 🏅 I speak English, Spanish and a little German.
   
 <h2>Experience</h2>
 
