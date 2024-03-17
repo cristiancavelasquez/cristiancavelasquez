@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Cristian Velásquez 👋</h1>
-<p align="center">A 24-year-old industrial engineer who loves computational science and working on projects related to web development and data analysis.</p>
+<p align="center">A 24-year-old industrial engineer who loves computer science and working on projects related to web development and data analysis.</p>
 
 - 👨🏻‍💻 Engineer at [Close Up International](https://www.close-upinternational.com/)
 - 🚗 Experience in the pharmaceutical and automotive industries. 💊
