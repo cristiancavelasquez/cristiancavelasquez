@@ -7,16 +7,18 @@
 - ⌨️ TypeScript and Python developer.
 - 📊 Power Bi Expert
 - 📚 Learning Go (Golang).
-- 🏅 I speak English, Spanish and a little German.
+- 🌎 I speak English, Spanish and a little German.
+
+You can learn more about me on my [portfolio](https://www.cristian-velasquez.com/).
   
 <h2>Experience</h2>
 
 <p>My experience is primarily focused on:</p>
 
-- 📊 Data dashboard development
-- 💻 Web application development
-- ⚙️ Automation
-- 🔍 Web scraping
+- 📊 Data dashboard development.
+- 💻 Web application development.
+- ⚙️ Automation.
+- 🔍 Web scraping.
 - 🤖 ETL development.
 
 However, I enjoy developing solutions for all kinds of problems, which is why I have also been working on some projects related to mobile applications (React Native), desktop applications (Tauri), and issues related to computer vision (OpenCV).
