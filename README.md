@@ -6,7 +6,7 @@
 - 👨🏻‍🏫 Python and Power BI teacher in my spare time.
 - ⌨️ TypeScript and Python developer.
 - 📊 Power Bi Expert
-- 📚 Learning Go (Golang).
+- 📚 Mastering Java.
 - 🌎 I speak English, Spanish and a little German.
 
 You can learn more about me on my [portfolio](https://www.cristian-velasquez.com/).
