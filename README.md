@@ -7,7 +7,7 @@
 - 📊 Power Bi Expert
 - 🌎 I speak English, Spanish, and a little German.
 
-You can learn more about me on my [portfolio](https://www.cristian-velasquez.com/).
+You can learn more about me on my [data portfolio](https://www.cristiancavelasquez.tech/) or [web portfolio](https://www.cristian-velasquez.com/).
   
 <h2>Experience</h2>
 
