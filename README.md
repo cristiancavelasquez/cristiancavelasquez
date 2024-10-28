@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Cristian Velásquez 👋</h1>
 <p align="center">An industrial engineer who loves computer science and working on projects related to web development and data analysis.</p>
 
-- 🚗 Experience in the pharmaceutical and automotive industries. 💊
+- 🚗 Experience in pharmaceutical and automotive industries. 💊
 - 👨🏻‍🏫 Python and Power BI teacher in my spare time.
 - ⌨️ TypeScript and Python developer.
 - 📊 Power Bi Expert
