@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Cristian Velásquez 👋</h1>
-<p align="center">A 24-year-old industrial engineer who loves computer science and working on projects related to web development and data analysis.</p>
+<p align="center">An industrial engineer who loves computer science and working on projects related to web development and data analysis.</p>
 
 - 🚗 Experience in the pharmaceutical and automotive industries. 💊
 - 👨🏻‍🏫 Python and Power BI teacher in my spare time.
@@ -18,8 +18,6 @@ You can learn more about me on my [data portfolio](https://www.cristiancavelasqu
 - ⚙️ Automation.
 - 🔍 Web scraping.
 - 🤖 ETL development.
-
-However, I enjoy developing solutions for all kinds of problems, which is why I have also been working on some projects related to mobile applications (React Native), desktop applications (Tauri), and issues related to computer vision (OpenCV).
 
 <h2>Skills</h2>
 
